@@ -1,0 +1,282 @@
+{
+  "utter_faq/fallback": [
+    {
+      "text": "I'm sorry, I couldn't understand your request. Please Repharse your question or ask anything else."
+    }
+  ],
+  "utter_faq/lastdemand_intro": [
+    {
+      "text": "The Last Demand is a pre-collection service providing a professional Final Notice to debtors, facilitating resolution between creditors and debtors before full debt recovery."
+    }
+  ],
+  "utter_faq/ld_res_debt_issue": [
+    {
+      "text": "Last Demand offers debtors a final opportunity to pay before their account goes to full collection, potentially preventing credit reporting and additional fees."
+    }
+  ],
+  "utter_faq/dispute_dept": [
+    {
+      "text": "Disputing a debt puts your account on hold. You may need to provide validating documents, and the expiration countdown may pause until the dispute is resolved."
+    }
+  ],
+  "utter_faq/debt_is_not_mine": [
+    {
+      "text": "If you believe the debt is not yours, you can request validating documents from the original creditor to verify its accuracy during the dispute process."
+    }
+  ],
+  "utter_faq/multiple_depts_LD": [
+    {
+      "text": "Yes, you can dispute multiple debts, and the dispute process will be initiated separately for each debt."
+    }
+  ],
+  "utter_faq/additional_fees_with_partial_payments": [
+    {
+      "text": "Additional fees may be incurred if the account expires, and the remaining balance is transferred to a collection agency."
+    }
+  ],
+  "utter_faq/partial_debt": [
+    {
+      "text": "If you make a partial payment and the account expires, the remaining balance will be sent to a collection agency for further recovery efforts."
+    }
+  ],
+  "utter_faq/expired_debt": [
+    {
+      "text": "After the expiration date, the remaining balance is transferred to a licensed collection agency, and additional fees, legal assistance, and credit reporting may come into play."
+    }
+  ],
+  "utter_faq/settlement_negotiation": [
+    {
+      "text": "Last Demand serves as a communication portal, so you would need to negotiate directly with your original creditor for a settlement."
+    }
+  ],
+  "utter_faq/contact_original_creditor": [
+    {
+      "text": "Information on how to contact your original creditor is not provided, so you should check your previous communications or records for their contact details."
+    }
+  ],
+  "utter_faq/consequences_unresolved_debt": [
+    {
+      "text": "Unresolved debt may lead to legal actions, credit reporting, and additional fees. It's crucial to address your debt issues promptly."
+    }
+  ],
+  "utter_faq/dispute_with_last_demand": [
+    {
+      "text": "If you disagree with Last Demand's determination, you can escalate the matter by contacting your original creditor or seeking legal advice for further action."
+    }
+  ],
+  "utter_faq/settlement_agreement_with_last_demand": [
+    {
+      "text": "You can request a written settlement agreement with Last Demand to ensure the agreed-upon terms and conditions are documented for clarity."
+    }
+  ],
+  "utter_faq/refusal_to_pay_last_demand_debt": [
+    {
+      "text": "Refusing to pay a debt may lead to escalated collection efforts, including legal action, potential judgments, and damage to your credit score."
+    }
+  ],
+  "utter_faq/debt_dispute_after_filing_complaint": [
+    {
+      "text": "Filing a complaint with a regulatory agency does not prevent you from disputing a debt with Last Demand, but you should inform them about the complaint."
+    }
+  ],
+  "utter_faq/handling_charged_off_debts": [
+    {
+      "text": "Last Demand may handle debts that have been charged off by the original creditor as part of their agreement, attempting to collect or resolve the debt."
+    }
+  ],
+  "utter_faq/multiple_final_notices_from_collection_agencies": [
+    {
+      "text": "If you receive multiple Final Notices for the same debt, you should choose one agency to work with and inform the others of your choice for resolution."
+    }
+  ],
+  "utter_faq/last_demand_debts_related_to_secured_loans": [
+    {
+      "text": "Last Demand may handle secured loans, but their focus is generally on unsecured consumer debts. It depends on their specific agreement with the creditor."
+    }
+  ],
+  "utter_faq/documentation_of_fees_and_interest_from_last_demand": [
+    {
+      "text": "You should request a breakdown of fees and interest from your original creditor, who can provide a detailed summary of the debt's components."
+    }
+  ],
+  "utter_faq/preventing_debt_progression_to_last_demand": [
+    {
+      "text": "To prevent a debt from reaching Last Demand, it's crucial to address payment issues or seek assistance with your creditor before it escalates further."
+    }
+  ],
+  "utter_faq/debt_dispute_identity_theft_last_demand": [
+    {
+      "text": "Yes, you can dispute a debt due to identity theft, and you should provide documentation supporting your claim, such as a police report or identity theft affidavit."
+    }
+  ],
+  "utter_faq/track_debt_status": [
+    {
+      "text": "You can typically track your debt status by contacting Last Demand or your original creditor for updates on your account."
+    }
+  ],
+  "utter_faq/agency_affiliation": [
+    {
+      "text": "No, Last Demand is not a government agency or affiliated with one. It is a pre-collection service used by creditors."
+    }
+  ],
+  "utter_faq/ignore_final_notice": [
+    {
+      "text": "Ignoring the Final Notice may lead to the debt being sent to a collection agency, potentially resulting in legal actions and credit reporting."
+    }
+  ],
+  "utter_faq/online_payments": [
+    {
+      "text": "Last Demand generally does not process payments; payments should be made directly to your original creditor."
+    }
+  ],
+  "utter_faq/verify_final_notice_authenticity": [
+    {
+      "text": "To verify the authenticity, you can contact Last Demand or your original creditor and confirm the notice's legitimacy."
+    }
+  ],
+  "utter_faq/negotiate_settlement": [
+    {
+      "text": "Negotiating a reduced settlement amount typically requires direct communication with your original creditor, not Last Demand."
+    }
+  ],
+  "utter_faq/help_with_multiple_creditors": [
+    {
+      "text": "Last Demand primarily assists with debts related to the specific creditor who engaged their services."
+    }
+  ],
+  "utter_faq/financial_changes_after_final_notice": [
+    {
+      "text": "If your financial situation changes, it's essential to communicate with your original creditor to discuss updated arrangements."
+    }
+  ],
+  "utter_faq/payment_assistance_programs": [
+    {
+      "text": "Last Demand primarily serves as a communication platform and does not typically offer payment assistance programs."
+    }
+  ],
+  "utter_faq/dispute_debt_in_collection": [
+    {
+      "text": "If the debt is with a collection agency, you may need to dispute it directly with the collection agency that now manages the debt."
+    }
+  ],
+  "utter_faq/consequences_of_invalid_dispute": [
+    {
+      "text": "If a debt dispute is deemed invalid, the debt remains, and it may be subject to further collection actions by the original creditor or collection agency."
+    }
+  ],
+  "utter_faq/request_payment_history": [
+    {
+      "text": "You can request a payment history for the debt from your original creditor, which can help in verifying the details of the debt."
+    }
+  ],
+  "utter_faq/statute_of_limitations": [
+    {
+      "text": "The statute of limitations can vary by location and type of debt, so it's essential to know the specific laws in your jurisdiction."
+    }
+  ],
+  "utter_faq/additional_information_about_services": [
+    {
+      "text": "To obtain more information about Last Demand's services, you should contact Last Demand or refer to their official documentation."
+    }
+  ],
+  "utter_faq/debt_already_paid_off": [
+    {
+      "text": "If you believe the debt has been paid, you should provide evidence of the payment to your original creditor during the dispute process."
+    }
+  ],
+  "utter_faq/disagree_debt_determination": [
+    {
+      "text": "If you disagree with Last Demand's determination, you can escalate the matter by contacting your original creditor or seeking legal advice for further action."
+    }
+  ],
+  "utter_faq/request_settlement_agreement": [
+    {
+      "text": "You can request a written settlement agreement with Last Demand to ensure the agreed-upon terms and conditions are documented for clarity."
+    }
+  ],
+  "utter_faq/consequences_of_refusing_payment": [
+    {
+      "text": "Refusing to pay a debt may lead to escalated collection efforts, including legal action, potential judgments, and damage to your credit score."
+    }
+  ],
+  "utter_faq/dispute_debt_after_complaint": [
+    {
+      "text": "Filing a complaint with a regulatory agency does not prevent you from disputing a debt with Last Demand, but you should inform them about the complaint."
+    }
+  ],
+  "utter_faq/multiple_final_notices": [
+    {
+      "text": "If you receive multiple Final Notices for the same debt, you should choose one agency to work with and inform the others of your choice for resolution."
+    }
+  ],
+  "utter_faq/assistance_with_secured_loans": [
+    {
+      "text": "Last Demand may handle secured loans, but their focus is generally on unsecured consumer debts. It depends on their specific agreement with the creditor."
+    }
+  ],
+  "utter_faq/request_debt_documentation": [
+    {
+      "text": "You should request a breakdown of fees and interest from your original creditor, who can provide a detailed summary of the debt's components."
+    }
+  ],
+  "utter_faq/prevent_debt_progression": [
+    {
+      "text": "To prevent a debt from reaching Last Demand, it's crucial to address payment issues or seek assistance with your creditor before it escalates further."
+    }
+  ],
+  "utter_faq/dispute_identity_theft_debt": [
+    {
+      "text": "Yes, you can dispute a debt due to identity theft, and you should provide documentation supporting your claim, such as a police report or identity theft affidavit."
+    }
+  ],
+  "utter_faq/verify_legitimacy_of_debt": [
+    {
+      "text": "You can verify the legitimacy of the debt by requesting debt validation and ensuring it complies with legal debt collection requirements."
+    }
+  ],
+  "utter_faq/dispute_billing_error": [
+    {
+      "text": "Yes, you can dispute a debt if you believe it's due to a billing error, and you should provide supporting evidence of the error."
+    }
+  ],
+  "utter_faq/respond_to_final_notice_timeframe": [
+    {
+      "text": "While there may not be a strict timeframe, it's advisable to respond promptly to prevent the debt from progressing in the collection process."
+    }
+  ],
+  "utter_faq/impact_on_credit_report": [
+    {
+      "text": "The impact on your credit report during a debt dispute depends on the outcome; if resolved favorably, it may have a positive impact; otherwise, it can be negative."
+    }
+  ],
+  "utter_faq/dispute_after_bankruptcy": [
+    {
+      "text": "If you've declared bankruptcy, you can dispute a debt with Last Demand, but you should provide documentation showing the debt's inclusion in the bankruptcy."
+    }
+  ],
+  "utter_faq/business_related_debts": [
+    {
+      "text": "Last Demand may handle business-related debts if they are part of their agreement with the creditor, but their focus is typically on consumer debts."
+    }
+  ],
+  "utter_faq/received_final_notice_after_payment": [
+    {
+      "text": "If you've already paid the debt, you should provide proof of payment to your original creditor and request clarification or confirmation of the payment."
+    }
+  ],
+  "utter_faq/dispute_time_barred_debt": [
+    {
+      "text": "Yes, you can dispute a time-barred debt, but you should be aware of the statute of limitations for debt collection in your jurisdiction."
+    }
+  ],
+  "utter_faq/track_debt_dispute_progress": [
+    {
+      "text": "You can track your debt dispute's progress by maintaining records of all communications, including dispute documentation and responses from Last Demand."
+    }
+  ],
+  "utter_faq/request_authority_documentation": [
+    {
+      "text": "You can request documentation from Last Demand to confirm their authority to collect the debt on behalf of the creditor."
+    }
+  ]
+}
